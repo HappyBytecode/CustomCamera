@@ -1,1 +1,1 @@
-include ':app', ':idcardcamera'
+include ':app', ':customcamera'
